@@ -29,6 +29,6 @@ Python 3.8+
 
 Tkinter (usually bundled with Python)
 
-Unifont font (auto-install prompt on first run)
+Unifont font (auto-install prompt on first run, but here is a bug)
 
 Only Python standard library is used — no third-party packages required.
